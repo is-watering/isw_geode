@@ -25,8 +25,9 @@ M2x7mm spacers           |4        |
 ### RP2040-Zero
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
 
-Solder the microcontroller downward from the top side of the PCB.  
-[Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-rp2040-zero.md)
+Solder the microcontroller from the top of the PCB, face down, using surface mount soldering.  
+[Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/surfacemount-rp2040-zero.md)
+<img src="../img/buildguide/build-pcb_01.jpg" width="80%">
 
 
 ## Build Case
