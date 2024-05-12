@@ -1,7 +1,7 @@
 # ISW-GEODE
 <img src="img/mounting-example.jpg" width="80%">
 
-ISW-GEODE is a gaming macro pad designed primarily for playing Minecraft. 
+ISW-GEODE is a gaming macro pad designed primarily for playing Minecraft.
 
 [Build guide](doc/buildguide.md)
 
