@@ -3,15 +3,15 @@
 ## Parts
 Name                     |Quantity |Notes
 -------------------------|---------|-----
-PCB                      |1        |
-Switch plate             |1        |
-Bottom plate             |1        |
+PCB                      |1        |[Here's the data](https://github.com/is-watering/isw_geode/tree/main/hardware/pcb)
+Switch plate             |1        |[Here's the data](https://github.com/is-watering/isw_geode/tree/main/hardware/plate)
+Bottom plate             |1        |[Here's the data](https://github.com/is-watering/isw_geode/tree/main/hardware/plate)
 SK6812 MINI-E leds       |4        |
 1N4148W diodes           |15       |
 Kailh hotswap sockets    |15       |
 RP2040-Zero              |1        |
 M2x4mm screws            |8        |
-M2x7mm spacers           |4        |
+M2x7mm spacers           |4        |[HIROSUGI NET](https://www.hirosugi-net.co.jp/shop/c/c10141012/)
 
 
 ## Build PCB
@@ -24,6 +24,8 @@ M2x7mm spacers           |4        |
 
 ### RP2040-Zero
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
+* [Remap](https://remap-keys.app/catalog/uf4aIRy3BQslvcxSSvND)
+* [Soure code](https://github.com/is-watering/isw_geode/tree/main/firmware)
 
 Solder the microcontroller from the top of the PCB, face down, using surface mount soldering.  
 [Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/surfacemount-rp2040-zero.md)
