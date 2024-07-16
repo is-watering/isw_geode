@@ -9,4 +9,4 @@ Middle plate B              |Acrylic  |2.0mm          |
 ## Notes
 * Acrylic plates may have gaps between plates due to tolerances. In that case, please adjust by inserting foam (EVA, silicone, etc.) between the two.
 
-<img src="../../img/plate/plate-overview_01.jpg" width="80%">
+<img src="../../img/plate/plate-overview-01.jpg" width="80%">

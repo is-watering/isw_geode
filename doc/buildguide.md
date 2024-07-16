@@ -29,27 +29,27 @@ It is recommended to check whether the firmware can be written to the microcontr
 
 Solder the microcontroller from the top of the PCB, face down, using surface mount soldering.  
 [Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/surfacemount-rp2040-zero.md)
-<img src="../img/buildguide/build-pcb_01.jpg" width="80%">
+<img src="../img/buildguide/build-pcb-01.jpg" width="80%">
 
 
 ## Build Case
 Use a 4mm screw to secure the 7mm spacer.  
-<img src="../img/buildguide/build-case_01.jpg" width="80%">
+<img src="../img/buildguide/build-case-01.jpg" width="80%">
 
 Place the PCB on the bottom plate.  
-<img src="../img/buildguide/build-case_02.jpg" width="80%">
+<img src="../img/buildguide/build-case-02.jpg" width="80%">
 
 Place switch plate on the PCB. It is easier to align the key switches if they are attached to the four corners.  
-<img src="../img/buildguide/build-case_03.jpg" width="80%">
+<img src="../img/buildguide/build-case-03.jpg" width="80%">
 
 Use a 4mm screw to secure the switch plate.Fix the switch plate using a 4mm screw.  
-<img src="../img/buildguide/build-case_04.jpg" width="80%">
+<img src="../img/buildguide/build-case-04.jpg" width="80%">
 
 Attach a key switch of your choice.  
-<img src="../img/buildguide/build-case_05.jpg" width="80%">
+<img src="../img/buildguide/build-case-05.jpg" width="80%">
 
 Attach a keycap of your choice to complete the process!  
-<img src="../img/buildguide/build-case_06.jpg" width="80%">
+<img src="../img/buildguide/build-case-06.jpg" width="80%">
 
 Congratulations on the completion!  
 Please be proud of it on social networking sites!  
