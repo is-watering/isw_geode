@@ -16,11 +16,11 @@ M2x7mm spacers           |4        |[HIROSUGI NET](https://www.hirosugi-net.co.j
 
 ## Build PCB
 
-### [Leds](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-sk6812mini-e.md)
+### [Leds](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-sk6812mini-e.md)
 
-### [Diodes](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-1n4148w.md)
+### [Diodes](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-1n4148w.md)
 
-### [Hotswap sockets](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/soldering-cpg151101s11.md)
+### [Hotswap sockets](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/soldering-cpg151101s11.md)
 
 ### RP2040-Zero
 It is recommended to check whether the firmware can be written to the microcontroller in advance.
@@ -28,7 +28,7 @@ It is recommended to check whether the firmware can be written to the microcontr
 * [Soure code](https://github.com/is-watering/isw_geode/tree/main/firmware)
 
 Solder the microcontroller from the top of the PCB, face down, using surface mount soldering.  
-[Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/surfacemount-rp2040-zero.md)
+[Learn more about how to solder microcontrollers](https://github.com/is-watering/isw-kbd-building-tips/blob/main/doc/en/surfacemount-rp2040-zero.md)
 <img src="../img/buildguide/build-pcb-01.jpg" width="80%">
 
 
